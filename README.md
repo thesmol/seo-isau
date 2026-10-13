@@ -55,12 +55,3 @@ npm run preview
 
 Исходные данные: результат выполнения задания №2 (html и css коды)
 ```
-
-## Публикация через SSH
-
-```sh
-git remote set-url origin git@github.com:thesmol/seo-isau.git
-git push origin main:main main:gh-pages
-```
-
-GitHub Pages публикует ветку `gh-pages`.
